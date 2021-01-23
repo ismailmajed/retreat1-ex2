@@ -16,4 +16,4 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Marwa](bio/marwa)
 [Wajeeha Bushra](bio/wajeeha)
- 
+{Ismail Majed](bio/ismail) 
